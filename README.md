@@ -6,6 +6,7 @@ I consider myself a very calm and loving person, I'm aslo a huge fan of sports, 
 So I'm basic a :alien: in this new world, but I’m currently learning HTML, CSS and JavaScript. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/jade-siebra-de-oliveira-6a938921b/
+- 
                       https://www.instagram.com/
 
 <!---
