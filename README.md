@@ -7,7 +7,7 @@ So I'm basic a :alien: in this new world, but I’m currently learning HTML, CSS
 
 - 📫 How to reach me: https://www.linkedin.com/in/jade-siebra-de-oliveira-6a938921b/
 - 
-                      https://www.instagram.com/
+                      https://www.instagram.com/jadesiebra/
 
 <!---
 Siebrex/Siebrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
