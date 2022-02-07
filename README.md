@@ -8,8 +8,8 @@ JADE SIEBRA :rainbow:
 
 * So I'm basic a :alien: in this new world, but I’m currently learning HTML, CSS and JavaScript. 
 
-- 📫 How to reach me: jadesiebra@outlook.com
-- 
+- 📫 How to reach me:  jadesiebra@outlook.com
+
 -                      https://www.linkedin.com/in/jade-siebra-de-oliveira-6a938921b/
 - 
                         https://www.instagram.com/jadesiebra/
