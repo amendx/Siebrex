@@ -6,7 +6,7 @@ JADE SIEBRA :rainbow:
 * I consider myself a very calm and loving person, I'm aslo a huge fan of sports, like biking, I love animals and learning new things :grin:.
 
 
-* So I'm basic a :alien: in this new world, but I’m currently learning HTML, CSS and JavaScript. 
+* So I'm basic a :alien: in this new world, but I’m currently learning HTML, CSS, JavaScript and Java.
 
 - 📫 How to reach me:  jadesiebra@outlook.com
 
